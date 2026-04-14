@@ -6,7 +6,7 @@ This project showcases my skills, projects, and journey as a **Data Analyst** �
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://anujshakya31.github.io/portfolio/)
+🔗 [View Portfolio](https://anujshakya31.github.io/)
 
 ---
 
