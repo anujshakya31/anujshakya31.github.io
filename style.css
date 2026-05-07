@@ -267,12 +267,36 @@ section h2::after {
 /* CONTACT */
 #contact p {
   color: #cbd5f5;
+  line-height: 1.8;
 }
 
 .social-links a {
   color: #6366f1;
   margin: 0 10px;
   text-decoration: none;
+  transition: 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #ffffff;
+}
+
+.resume-btn{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 24px;
+    background:#2563eb;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+    font-weight:600;
+    transition:0.3s ease;
+}
+
+.resume-btn:hover{
+    background:#1d4ed8;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(37,99,235,0.4);
 }
 
 /* FOOTER */
